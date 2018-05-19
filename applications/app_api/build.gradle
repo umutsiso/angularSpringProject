@@ -1,0 +1,56 @@
+buildscript {
+	ext {
+		springBootVersion = '2.0.2.RELEASE'
+	}
+	repositories {
+		mavenCentral()
+	}
+	dependencies {
+		classpath("org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}")
+	}
+}
+
+plugins {
+	id 'java'
+	id 'idea'
+	id 'net.researchgate.release' version '2.6.0'
+	id 'org.springframework.boot' version '1.5.10.RELEASE'
+	id 'io.spring.dependency-management' version '1.0.3.RELEASE'
+	id 'org.flywaydb.flyway' version '5.0.7'
+}
+
+group = 'com.siso'
+version = '0.0.1-SNAPSHOT'
+sourceCompatibility = 1.8
+
+repositories {
+	mavenCentral()
+}
+
+
+dependencies {
+	compile('org.springframework.boot:spring-boot-starter-data-jpa')
+	compile('org.springframework.boot:spring-boot-starter-jdbc')
+	compile('org.springframework.boot:spring-boot-starter-thymeleaf')
+	compile group: 'org.xerial', name: 'sqlite-jdbc', version: '3.7.2'
+	compile('org.springframework.boot:spring-boot-starter-web')
+	compile('org.flywaydb:flyway-core')
+	compile 'org.webjars:bootstrap:4.1.0'
+	runtime('org.springframework.boot:spring-boot-devtools')
+	runtime('com.h2database:h2')
+	runtime('org.postgresql:postgresql')
+	compileOnly('org.projectlombok:lombok')
+	testCompile('org.springframework.boot:spring-boot-starter-test')
+}
+
+
+flyway {
+	url = 'jdbc:h2:mem:db;DATABASE_TO_UPPER=false'
+	user = 'sa'
+}
+
+jar {
+    baseName = 'app_api'
+}
+
+

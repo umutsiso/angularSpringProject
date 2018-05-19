@@ -1,0 +1,46 @@
+/*.table-dark {*/
+    /*border-radius: 5px;*/
+    /*width: 50%;*/
+    /*margin: 0px auto;*/
+    /*float: none;*/
+/*}*/
+
+.textarea {
+    border-radius: 5px;
+    width: 50%;
+    margin: auto;
+    float: left;
+    position: center;
+    display: block;
+}
+.textarea2 {
+    border-radius: 5px;
+    width: 50%;
+    margin: auto;
+    float: right;
+    position: center;
+    display: block;
+}
+
+button {
+    display: block;
+    float: none;
+
+}
+
+
+div-center {
+    width: 50%;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    margin: auto;
+}
+
+
+/*DISPLAY*/
+/*FLOAT*/
+/*MARGIN : AUTO*/

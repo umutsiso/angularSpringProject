@@ -1,0 +1,1133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ffffba26-14d8-4354-866b-228c8abf8217" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="settings.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/settings.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applications/app-ui/package-lock.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server-element.component.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applications/app-ui/src/app/server-element/server-element.component.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="C:\SOURCE\APPS\Gradle\gradle-4.7-all\gradle-4.7" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4.7" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="newTestLearn" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="newTestLearn" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":applications/app_api" />
+                <option name="path" value="$PROJECT_DIR$/applications/app_api" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'newTestLearn'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prompts user for this release version. Allows for alpha or pre releases." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="confirmReleaseVersion" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prompts user for the next version. Does it's best to supply a smart default." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="updateVersion" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Verify project, release, and update version to next." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="release" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Removes &quot;-SNAPSHOT&quot; from your project's current version." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="unSnapshotVersion" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prints the details and status information about all the migrations." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="flywayInfo" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles an executable jar archive containing the main classes and their dependencies." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="bootJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'newTestLearn'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Commits any changes made by the Release plugin - eg. If the unSnapshotVersion task was executed" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="preTagCommit" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'newTestLearn' (some of the displayed tasks may belong to subprojects)." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependency management declared in project ':applications/app_api'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyManagement" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes the SCM plugin" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="initScmAdapter" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'newTestLearn'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Drops all objects in the configured schemas." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="flywayClean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'newTestLearn'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'newTestLearn'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Finds the correct SCM plugin" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="createScmAdapter" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'newTestLearn'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Undoes the most recently applied versioned migration. Flyway Pro and Flyway Enterprise only." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="flywayUndo" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Creates a tag in SCM for the current (un-snapshotted) version." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="createReleaseTag" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Commits the version update to your SCM" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="commitNewVersion" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Checks to see if there are any added, modified, removed, or un-versioned files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="checkCommitNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Repairs the Flyway schema history table." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="flywayRepair" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the build process in a separate gradle run." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="runBuildTasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Baselines an existing database, excluding all migrations up to and including baselineVersion." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="flywayBaseline" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Migrates the schema to the latest version." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="flywayMigrate" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs immediately before the build when doing a release" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="beforeReleaseBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a Spring Boot application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="bootRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Checks to see if your project has any SNAPSHOT dependencies." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="checkSnapshotDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Validate applied migrations against resolved ones (on the filesystem or classpath) to detect accidental changes that may prevent the schema(s) from being recreated exactly. Validation fails if differences in migration names, types or checksums are found, versions have been applied that aren&quot;t resolved locally anymore or versions have been resolved that haven&quot;t been applied yet" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="flywayValidate" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'newTestLearn'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs immediately after the build when doing a release" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="afterReleaseBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Checks to see if there are any incoming or outgoing changes that haven't been applied locally." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="checkUpdateNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'newTestLearn'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/applications/app_api">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':applications/app_api'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prompts user for this release version. Allows for alpha or pre releases." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="confirmReleaseVersion" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prompts user for the next version. Does it's best to supply a smart default." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="updateVersion" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Verify project, release, and update version to next." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="release" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Removes &quot;-SNAPSHOT&quot; from your project's current version." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="unSnapshotVersion" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prints the details and status information about all the migrations." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="flywayInfo" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles an executable jar archive containing the main classes and their dependencies." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="bootJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':applications/app_api'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Commits any changes made by the Release plugin - eg. If the unSnapshotVersion task was executed" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="preTagCommit" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':applications/app_api'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependency management declared in project ':applications/app_api'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="dependencyManagement" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes the SCM plugin" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="initScmAdapter" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':applications/app_api'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Drops all objects in the configured schemas." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="flywayClean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':applications/app_api'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Finds the correct SCM plugin" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="createScmAdapter" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':applications/app_api'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':applications/app_api'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Undoes the most recently applied versioned migration. Flyway Pro and Flyway Enterprise only." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="flywayUndo" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Creates a tag in SCM for the current (un-snapshotted) version." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="createReleaseTag" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Commits the version update to your SCM" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="commitNewVersion" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Checks to see if there are any added, modified, removed, or un-versioned files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="checkCommitNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Repairs the Flyway schema history table." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="flywayRepair" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the build process in a separate gradle run." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="runBuildTasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Baselines an existing database, excluding all migrations up to and including baselineVersion." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="flywayBaseline" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Migrates the schema to the latest version." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="flywayMigrate" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs immediately before the build when doing a release" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="beforeReleaseBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a Spring Boot application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="bootRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Checks to see if your project has any SNAPSHOT dependencies." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="checkSnapshotDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Validate applied migrations against resolved ones (on the filesystem or classpath) to detect accidental changes that may prevent the schema(s) from being recreated exactly. Validation fails if differences in migration names, types or checksums are found, versions have been applied that aren&quot;t resolved locally anymore or versions have been resolved that haven&quot;t been applied yet" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="flywayValidate" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':applications/app_api'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs immediately after the build when doing a release" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="afterReleaseBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Checks to see if there are any incoming or outgoing changes that haven't been applied locally." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="checkUpdateNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':applications/app_api'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/applications/app_api" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3053405053845" />
+        <entry key="$PROJECT_DIR$/applications/app_api/build.gradle" value="3151856489" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="3443177690" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/applications/app_api">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/2.0.2.RELEASE/d283fee446dd4fb54100c034fe8cecfa0a869498/spring-boot-gradle-plugin-2.0.2.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/2.0.2.RELEASE/b35e0fcf1acca8c38899af0f06269955f1bf553c/spring-boot-gradle-plugin-2.0.2.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.researchgate/gradle-release/2.6.0/77900f74c518c853cdbf86082de944d404132d57/gradle-release-2.6.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.researchgate/gradle-release/2.6.0/e4fe54da9a6814172ed4acacfbf2f53460cda91a/gradle-release-2.6.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.5.RELEASE/e9f2761e13da4228793ee5fcaa983889e68c4c61/dependency-management-plugin-1.0.5.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.5.RELEASE/3589987a66349bdc10b18c6c4a5463ffd084c908/dependency-management-plugin-1.0.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/gradle.plugin.com.boxfuse.client/gradle-plugin-publishing/5.0.7/2c5f30e4ed97998a3e563761710e1310bef661e7/gradle-plugin-publishing-5.0.7.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/2.0.2.RELEASE/fb36a0b30c22e3f260e3dad1c54a12c181c36228/spring-boot-loader-tools-2.0.2.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/2.0.2.RELEASE/f1460752eda55972571a9651fcdfcb6cceef183d/spring-boot-loader-tools-2.0.2.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.14/43a23e357fa7b187c261520914c0b001ea1a62a2/commons-compress-1.14-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.14/7b18320d668ab080758bf5383d6d8fcf750babce/commons-compress-1.14.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.flywaydb/flyway-core/5.0.7/79ec1f9d42bd25af525bc6687b538f522363c3a/flyway-core-5.0.7-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.flywaydb/flyway-core/5.0.7/71b796e103987cf8f24068f1f5490fac8f8e1126/flyway-core-5.0.7.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.0.6.RELEASE/86ca74938ace10c2aff781b6d93888435baf7474/spring-core-5.0.6.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.0.6.RELEASE/984a52455b1be596b7f1a29f62d21d2f483eb764/spring-core-5.0.6.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.0.6.RELEASE/ca475012ae43a0745d3cfc0bae4e52de0fddc29f/spring-jcl-5.0.6.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.0.6.RELEASE/295ee4e8657e9c1fd327735c01d5fbce339cc44d/spring-jcl-5.0.6.RELEASE.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/applications/app_api" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="newTestLearn" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/announce" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/antlr" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/base-services" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/base-services-groovy" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/build-cache" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/build-cache-http" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/build-comparison" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/build-init" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/build-option" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/cli" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/code-quality" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/composite-builds" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/core" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/core-api" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/dependency-management" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/diagnostics" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/ear" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/ide" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/ide-native" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/ide-play" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/installation-beacon" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/internal-android-performance-testing" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/internal-integ-testing" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/internal-performance-testing" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/internal-testing" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/ivy" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/jacoco" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/javascript" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/jvm-services" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/language-groovy" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/language-java" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/language-jvm" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/language-native" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/language-scala" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/launcher" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/logging" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/maven" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/messaging" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/model-core" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/model-groovy" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/native" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/osgi" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/persistent-cache" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/platform-base" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/platform-jvm" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/platform-native" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/platform-play" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/plugin-development" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/plugin-use" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/plugins" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/process-services" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/publish" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/reporting" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/resources" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/resources-gcs" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/resources-http" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/resources-s3" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/resources-sftp" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/scala" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/signing" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/test-kit" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/testing-base" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/testing-junit-platform" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/testing-jvm" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/testing-native" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/tooling-api" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/tooling-api-builders" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/version-control" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/workers" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/src/wrapper" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/ant-1.9.9.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/ant-launcher-1.9.9.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/gradle-base-services-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/gradle-base-services-groovy-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/gradle-build-cache-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/gradle-build-option-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/gradle-cli-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/gradle-core-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/gradle-core-api-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/gradle-docs-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/gradle-installation-beacon-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/gradle-jvm-services-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/gradle-kotlin-dsl-0.16.3.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/gradle-kotlin-dsl-tooling-builders-0.16.3.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/gradle-kotlin-dsl-tooling-models-0.16.3.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/gradle-launcher-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/gradle-logging-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/gradle-messaging-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/gradle-model-core-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/gradle-model-groovy-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/gradle-native-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/gradle-persistent-cache-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/gradle-process-services-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/gradle-resources-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/gradle-runtime-api-info-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/gradle-tooling-api-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/gradle-wrapper-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/groovy-all-2.4.12.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-announce-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-antlr-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-build-cache-http-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-build-comparison-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-build-init-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-code-quality-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-composite-builds-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-dependency-management-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-diagnostics-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-ear-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-ide-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-ide-native-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-ide-play-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-ivy-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-jacoco-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-javascript-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-language-groovy-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-language-java-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-language-jvm-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-language-native-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-language-scala-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-maven-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-osgi-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-platform-base-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-platform-jvm-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-platform-native-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-platform-play-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-plugin-development-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-plugin-use-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-plugins-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-publish-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-reporting-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-resources-gcs-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-resources-http-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-resources-s3-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-resources-sftp-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-scala-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-signing-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-test-kit-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-testing-base-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-testing-junit-platform-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-testing-jvm-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-testing-native-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-tooling-api-builders-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-version-control-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/gradle-workers-4.7.jar" />
+                  <option value="C:/SOURCE/APPS/Gradle/gradle-4.7-all/gradle-4.7/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/applications/app-ui/src/app/server-element/server-element.component.css" />
+        <option value="$PROJECT_DIR$/applications/app_api/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/applications/app-ui/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="27" />
+    <option name="width" value="2432" />
+    <option name="height" value="672" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="newTestLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newTestLearn" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="newTestLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newTestLearn" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="applications" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="newTestLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newTestLearn" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="applications" type="462c0819:PsiDirectoryNode" />
+              <item name="app_api" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration name="NotepadApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.siso.notepad.NotepadApplication" />
+      <module name="applications_app_api_main" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffffba26-14d8-4354-866b-228c8abf8217" name="Default" comment="" />
+      <created>1526701065892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526701065892</updated>
+      <workItem from="1526701067728" duration="13000" />
+      <workItem from="1526701229609" duration="48000" />
+      <workItem from="1526702653852" duration="708000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="769000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="2578" height="1410" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32983872" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25539568" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/applications/app-ui" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applications/app-ui/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applications/app-ui/src/app/server-element/server-element.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applications/app_api/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
