@@ -1,1 +1,3 @@
 .idea/
+applications/app_api/out/production
+applications/app_api/out/test
