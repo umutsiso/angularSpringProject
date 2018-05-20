@@ -1,0 +1,16 @@
+<div class="row">
+  <div class="col-xs-12">
+    <app-game-control (incrementNumber)="onIntervalFired($event)"></app-game-control>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-xs-12">
+    <div *ngFor="let number of collectedNumbers">
+      <app-even *ngIf="number%2 === 0" [number]="number"></app-even>
+      <app-odd *ngIf="number%2 === 1" [number]="number"></app-odd>
+    </div>
+  </div>
+</div>
+
+
