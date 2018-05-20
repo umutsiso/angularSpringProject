@@ -1,29 +1,25 @@
-<button class="button btn-primary" [disabled]="!(myServerName.length > 0)" (click)="onCreateServer()">ADD SERVER
-</button>
-
-<button class="button btn-primary" [disabled]="!(myServerName.length > 0)" (click)="onDeleteServer()">DELETE SERVER
-</button>
-
-
-<!--<input type="text"-->
-<!--class="form-control"-->
-<!--(input)="onUpdateServerName($event)">-->
-
-
-<input type="text"
-       class="form-control"
-       [(ngModel)]="myServerName"
->
-
-
-<h2 *ngIf="buttonClicked; else myLocalVariable">{{myServerName}} has been created!</h2>
-
-<ng-template #myLocalVariable><h2> This is the else statement </h2> </ng-template>
-
-
 <div class="row">
-  <div class="col-xs-12" *ngFor="let x of currentServers; index as i">
-    <app-server-element [serverName]="x"></app-server-element>
+  <div class="col-xs-12">
+    <p>Add new Servers or Blueprints!</p>
+
+    <label>Server Name</label>
+    <!--<input type="text" [(ngModel)]="newServerName" class="form-control">-->
+    <input type="text"
+           class="form-control"
+           #serverNameInput>
+    <label>Server Content</label>
+    <!--<input type="text" [(ngModel)]="newServerContent" class="form-control">-->
+    <input type="text"
+           class="form-control"
+           #serverContentInput>
+    <br>
+    <button
+      class="btn btn-primary"
+      (click)="onAddServer(serverNameInput.value)">Add Server</button>
+    <button
+      class="btn btn-primary"
+      (click)="onAddBlueprint(serverNameInput.value)">Add Server Blueprint</button>
 
   </div>
+
 </div>

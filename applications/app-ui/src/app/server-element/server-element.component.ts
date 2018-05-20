@@ -1,4 +1,4 @@
-import {Component, Input, OnInit} from '@angular/core';
+import {Component, ElementRef, Input, OnChanges, OnInit, SimpleChanges, ViewChild} from '@angular/core';
 
 @Component({
   selector: 'app-server-element',
@@ -6,27 +6,14 @@ import {Component, Input, OnInit} from '@angular/core';
   styleUrls: ['./server-element.component.css']
 })
 export class ServerElementComponent implements OnInit {
-  serverStatus: string = 'offline'
-  @Input() serverName: string;
+  @Input() element: { type: string, name: string, content: string };
+
 
   constructor() {
-    if (Math.random() > 0.5)
-      this.serverStatus = 'offline'
-    else
-      this.serverStatus = 'online'
-
   }
 
 
   ngOnInit() {
-  }
-
-  getColor() {
-    return this.serverStatus === 'offline' ? 'red' : 'green';
-  }
-
-  getServerStatus() {
-    return this.serverStatus;
   }
 
 }

@@ -1,4 +1,4 @@
-import {Component, OnInit} from '@angular/core';
+import {Component, EventEmitter, OnInit, Output, ViewChild} from '@angular/core';
 
 @Component({
   selector: 'app-cockpit',
@@ -6,39 +6,26 @@ import {Component, OnInit} from '@angular/core';
   styleUrls: ['./cockpit.component.css']
 })
 export class CockpitComponent implements OnInit {
-  currentServers = ['serverOne', 'serverTwo'];
-  myServerName = '';
-  buttonClicked= false;
 
+  @Output() serverCreated = new EventEmitter<{ serverName: string, serverContent: string }>();
+  @Output() blueprintCreated = new EventEmitter<{ blueprintName: string, blueprintContent: string }>();
+
+  @ViewChild('serverContentInput') serverContentInput;
 
   constructor() {
   }
 
   ngOnInit() {
-    // setTimeout(() => {
-    //     this.btnDisabled = false;
-    //   }, 2000
-    // )
+
   }
 
-  onCreateServer() {
-    this.buttonClicked = true;
-    this.currentServers.push(this.myServerName)
+  onAddServer(newServerName: string) {
+    this.serverCreated.emit({serverName: newServerName, serverContent: this.serverContentInput.nativeElement.value});
   }
 
-  onDeleteServer() {
-    let index = this.currentServers.indexOf(this.myServerName)
-    if (index > -1)
-      this.currentServers.splice(index, 1);
+  onAddBlueprint(newServerName: string) {
+    this.blueprintCreated.emit({blueprintName: newServerName, blueprintContent: this.serverContentInput.nativeElement.value});
   }
 
-  onUpdateServerName(event: Event) {
-    this.myServerName = (<HTMLInputElement>event.target).value;
-  }
-
-  serverHasInput(){
-    console.log(this.myServerName.length > 0)
-    return this.myServerName.length > 0;
-  }
 
 }
