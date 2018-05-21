@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import {SelectedComponent} from "./shared/enums/selected.enum";
 
 @Component({
   selector: 'app-root',
@@ -7,4 +8,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app';
+  selectedTab= 'recipe';
+
+  onSelectedTab(selected: SelectedComponent) {
+    this.selectedTab = selected.value;
+  }
+
 }
