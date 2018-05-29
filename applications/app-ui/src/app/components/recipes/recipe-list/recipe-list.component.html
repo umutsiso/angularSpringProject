@@ -9,7 +9,7 @@
 <div class="row">
   <div class="col-xs-12">
     <div *ngFor="let recipe of recipes; i as index">
-      <app-recipe-item (recipeEvent)="onRecipeChanged($event)" [recipe]="recipe"></app-recipe-item>
+      <app-recipe-item [recipe]="recipe"></app-recipe-item>
 
     </div>
   </div>
