@@ -29,4 +29,8 @@ export class RecipeService {
     return this.recipes.slice(); //RETURNS A COPY OF THE ARRAY, NOT THE ACTUAL INSTANCE OF THE ARRAY
   }
 
+  getRecipeId() {
+
+  }
+
 }

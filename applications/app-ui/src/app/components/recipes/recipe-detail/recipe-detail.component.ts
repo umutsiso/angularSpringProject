@@ -11,8 +11,6 @@ import {forEach} from "@angular/router/src/utils/collection";
   styleUrls: ['./recipe-detail.component.css']
 })
 export class RecipeDetailComponent implements OnInit {
-  ingredients: Ingredient[] = [];
-
   @Input() selectedRecipe: Recipe;
 
   constructor(private shoppingService: ShoppingListService) { }
