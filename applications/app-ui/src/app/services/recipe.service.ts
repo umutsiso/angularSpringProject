@@ -9,9 +9,6 @@ export class RecipeService {
   constructor(private shoppingService: ShoppingListService) {
   }
 
-
-  recipeSelected = new EventEmitter<Recipe>();
-
   private recipes: Recipe[] = [
     new Recipe('Chicken Soup Recipe',
       'Chicken Soup',
@@ -29,8 +26,8 @@ export class RecipeService {
     return this.recipes.slice(); //RETURNS A COPY OF THE ARRAY, NOT THE ACTUAL INSTANCE OF THE ARRAY
   }
 
-  getRecipeId() {
-
+  getRecipe(id: number) {
+    return this.recipes[id];
   }
 
 }
