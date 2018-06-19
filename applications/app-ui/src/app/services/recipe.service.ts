@@ -1,12 +1,16 @@
 import {Recipe} from "../shared/models/recipe.model";
-import {Injectable} from "@angular/core";
+import {Injectable, OnInit} from "@angular/core";
 import {Ingredient} from "../shared/models/ingredient.model";
+import {Observable} from "rxjs/Observable";
+import {Subject} from "rxjs/Subject";
 
 @Injectable()
-export class RecipeService {
+export class RecipeService implements OnInit {
 
   constructor() {
   }
+
+  recipeSubject: Subject<Recipe[]> = new Subject<Recipe[]>();
 
   private recipes: Recipe[] = [
     new Recipe('Chicken Soup Recipe',
@@ -21,12 +25,33 @@ export class RecipeService {
         new Ingredient('Taco', 1)])
   ];
 
-  getRecipes() {
-    return this.recipes.slice(); //RETURNS A COPY OF THE ARRAY, NOT THE ACTUAL INSTANCE OF THE ARRAY
+  ngOnInit() {
+  }
+
+
+  getRecipeObject() {
+    return this.recipes.slice();
   }
 
   getRecipe(id: number) {
     return this.recipes[id];
   }
+
+  addRecipe(recipe: Recipe) {
+    this.recipes.push(recipe);
+    this.recipeSubject.next(this.recipes.slice());
+  }
+
+  updateRecipe(recipe: Recipe, index: number) {
+    this.recipes[index] = recipe;
+    this.recipeSubject.next(this.recipes.slice());
+  }
+
+  deleteRecipe(index: number) {
+    this.recipes.splice(index, 1);
+    this.recipeSubject.next(this.recipes.slice());
+
+  }
+
 
 }
