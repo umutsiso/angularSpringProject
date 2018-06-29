@@ -53,5 +53,10 @@ export class RecipeService implements OnInit {
 
   }
 
+  setRecipes(recipes: Recipe[]) {
+    this.recipes = recipes;
+    this.recipeSubject.next(recipes.slice());
+  }
+
 
 }
